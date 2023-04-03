@@ -1,10 +1,7 @@
-import Navbar from "./components/Navbar";
-import Cartcontainer from "./components/Cartcontainer";
 
 function App() {
   return <main>
-            <Navbar />
-            <Cartcontainer />
+            Hello
          </main>;
 }
 export default App;
